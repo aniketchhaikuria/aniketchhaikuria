@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Aniket Chhaikutria
+- 💼 Data Analyst | Google Data Analytics Certified
+- 🌟 Proficient in SQL, R, Tableau, Spreadsheets
+- 📊 Passionate about data visualization and analytics
+- 👀 Interested in data analytics, machine learning
+- 🌱 Currently learning Power BI, Python, advanced data visualization techniques, and predictive analytics
+- 💞️ Looking to collaborate on data-driven projects and open-source data tools
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniketchhaikuria/) | [Email](mailto:ca26072000@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and often apply that mindset to analyzing complex data sets!
