@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aniket Chhaikutria
+- 👋 Hi, I’m Aniket Chhaikuria
 - 💼 Data Analyst | Google Data Analytics Certified
 - 🌟 Proficient in SQL, R, Tableau, Spreadsheets
 - 📊 Passionate about data visualization and analytics
